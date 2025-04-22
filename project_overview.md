@@ -16,7 +16,7 @@ For your final `.ipynb` submission, show that you've successfully loaded the dat
 
 ## Semantic Search
 
-Create a vector a index and semantic search workflow on the `description` column in the job postings dataset. Please do not feel compelled to spend any money on this section for vector indexes or embedding models - you are free to use open source libraries and providers or your choice such as [`SentenceTransformers`](https://sbert.net/),[ `ChromaDB`](https://www.trychroma.com/), and [`HuggingFace`](https://huggingface.co/).
+Create a vector index and semantic search workflow on the `description` column in the job postings dataset. Please do not feel compelled to spend any money on this section for vector indexes or embedding models - you are free to use open source libraries and providers or your choice such as [`SentenceTransformers`](https://sbert.net/),[ `ChromaDB`](https://www.trychroma.com/), and [`HuggingFace`](https://huggingface.co/).
 
 For your final submission, show that your semantic search workflow functions as expected by looking at the top 10 results for the following queries:
 
