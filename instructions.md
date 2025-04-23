@@ -73,16 +73,25 @@ Additionally, please create a PDF copy of the `.ipynb` notebook, showing the fin
 Save the `.ipynb` notebook and the PDF file.
 
 
-## Semantic Search
+## Task 2 - Semantic Search
 
-Create a vector index and semantic search workflow on the `description` column in the job postings dataset. Please do not feel compelled to spend any money on this section for vector indexes or embedding models - you are free to use open source libraries and providers or your choice such as [`SentenceTransformers`](https://sbert.net/),[ `ChromaDB`](https://www.trychroma.com/), and [`HuggingFace`](https://huggingface.co/).
+### 2.1 Pick vector index and embedding providers
 
-For your final submission, show that your semantic search workflow functions as expected by looking at the top 10 results for the following queries:
+You can use any vector index/database and embedding provider that you like, but the simplest and most time-effective solution is probably [ `ChromaDB`](https://www.trychroma.com/) and [`SentenceTransformers`](https://sbert.net/). Install the necessary libraries for you vector index and embedding model.
+
+### 2.2 Create a job description index
+
+Create a vector index and semantic search workflow on the `description` column in the job postings dataset. You can use either the data from your SQL tables or the original CSV file for this. After embedding all of the descriptions, display the dimension of one of the embedding vectors in your index.
+
+### 2.3 Test your semantic search workflow
+
+Show that your semantic search workflow functions as expected by looking at the top 10 results for the following queries:
 
 - `I'm looking for a job that requires a nursing degree`
 - `Construction work, civil engineering, architecture`
 - `Are there any medical research jobs?`
 
+For each query, your notebook should display the top 10 most semantically similar results. Based on the results, do you think your semantic search workflow is functioning properly? What are some rigorous ways to evaluate semantic search? List one or two ways you might improve your semantic search workflow if you had more time.
 
 ## Submit Completed Project
 
