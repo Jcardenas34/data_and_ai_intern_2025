@@ -1,0 +1,1433 @@
+,company_id,industry
+18,33218,Staffing and Recruiting
+36,7790573,Business Consulting and Services
+49,24803,Staffing and Recruiting
+50,13345578,IT Services and IT Consulting
+57,54077952,Motor Vehicle Manufacturing
+60,63155,Gambling Facilities and Casinos
+134,708917,Financial Services
+154,22355,Higher Education
+160,860999,IT Services and IT Consulting
+195,3541916,Staffing and Recruiting
+212,74571418,Retail Apparel and Fashion
+217,726206,Individual and Family Services
+223,10500730,Food and Beverage Services
+250,18921,Staffing and Recruiting
+276,92188790,Hospitality
+302,4594437,Motor Vehicle Manufacturing
+307,122451,Staffing and Recruiting
+309,62101,Banking
+334,219963,Government Administration
+337,116025,Oil and Gas
+342,74075477,Staffing and Recruiting
+370,24157,Financial Services
+371,5348965,Medical Equipment Manufacturing
+374,22134,IT Services and IT Consulting
+382,82284641,Construction
+383,1996803,Truck Transportation
+405,2061386,Armed Forces
+408,13655403,Human Resources Services
+437,87089640,Retail
+450,163761,Retail
+469,996149,Real Estate
+478,1211063,Staffing and Recruiting
+494,11266342,Hospitals and Health Care
+513,8653,Law Practice
+545,16388,IT Services and IT Consulting
+547,63563,Staffing and Recruiting
+585,33247784,Insurance
+602,8498368,Non-profit Organizations
+607,47664328,Telecommunications
+610,5399183,Wellness and Fitness Services
+616,1339209,Entertainment Providers
+618,165461,Hospitals and Health Care
+627,81958632,Wholesale Building Materials
+660,7684,Software Development
+678,3738912,Retail
+681,33711,Environmental Services
+689,35634312,Oil and Gas
+704,3719923,Pharmaceutical Manufacturing
+711,35452956,Insurance
+713,96635463,Advertising Services
+718,166209,Hospitals and Health Care
+741,6460,Computer and Network Security
+762,40783,Staffing and Recruiting
+777,79482021,IT Services and IT Consulting
+783,2227,Pharmaceutical Manufacturing
+790,33269,Wholesale
+796,19076380,Staffing and Recruiting
+827,101169414,Staffing and Recruiting
+856,10540544,Staffing and Recruiting
+862,200685,IT Services and IT Consulting
+865,8047188,IT Services and IT Consulting
+929,71901687,IT Services and IT Consulting
+965,51688908,Retail
+968,5848,Utilities
+992,3264,Insurance
+1004,79135,Wellness and Fitness Services
+1006,79809662,Software Development
+1014,348976,Human Resources Services
+1023,225930,Construction
+1029,30498,Retail
+1058,1511215,Civil Engineering
+1066,2056643,Hospitals and Health Care
+1068,2788204,IT Services and IT Consulting
+1072,27625,Hospitals and Health Care
+1085,1856927,Retail
+1139,26231,Insurance
+1162,311559,Hospitals and Health Care
+1168,6486571,Education Administration Programs
+1183,1207,Hospitals and Health Care
+1184,907307,Software Development
+1185,23375,Hospitals and Health Care
+1203,2204084,Software Development
+1222,1300194,Mining
+1253,2627350,Hospitality
+1281,139026,Travel Arrangements
+1323,1360,IT Services and IT Consulting
+1334,20463274,IT Services and IT Consulting
+1346,2254693,Food and Beverage Services
+1350,164356,Information Services
+1351,80908848,Staffing and Recruiting
+1356,261749,IT Services and IT Consulting
+1380,2545750,Hospitals and Health Care
+1393,4473754,Hospitals and Health Care
+1469,166124,Staffing and Recruiting
+1476,4862,Law Practice
+1492,138567,Biotechnology Research
+1499,10778,Retail
+1533,33295877,Pharmaceutical Manufacturing
+1535,2128757,Mining
+1538,1753550,IT Services and IT Consulting
+1574,6616944,Staffing and Recruiting
+1585,245310,Retail Luxury Goods and Jewelry
+1588,975681,Software Development
+1604,3859,Software Development
+1608,162656,Staffing and Recruiting
+1615,10838707,Advertising Services
+1650,6464080,Advertising Services
+1691,545751,Staffing and Recruiting
+1692,98460039,Primary and Secondary Education
+1738,623152,IT Services and IT Consulting
+1756,670004,Law Practice
+1769,20009,Food and Beverage Manufacturing
+1771,10906316,Entertainment Providers
+1790,7412,Retail
+1831,21709,Wholesale Building Materials
+1836,53198134,Industrial Machinery Manufacturing
+1897,73017499,IT Services and IT Consulting
+1909,547009,Truck Transportation
+1934,2883353,Advertising Services
+1974,90551435,Retail
+2044,6436693,Law Practice
+2056,9336927,Law Practice
+2102,310250,Staffing and Recruiting
+2110,17867,"Appliances, Electrical, and Electronics Manufacturing"
+2141,17881501,Software Development
+2155,33216895,Outsourcing and Offshoring Consulting
+2162,2822187,Staffing and Recruiting
+2193,300543,Facilities Services
+2210,165444,IT Services and IT Consulting
+2221,81600,Non-profit Organizations
+2251,104499,Financial Services
+2260,250138,Insurance
+2275,52768,Financial Services
+2290,1776228,Defense and Space Manufacturing
+2295,42887005,Human Resources Services
+2312,2380,Airlines and Aviation
+2358,18686842,Hospitals and Health Care
+2360,284053,Law Practice
+2367,13719,Chemical Manufacturing
+2392,65564410,Hospitality
+2399,16031,Architecture and Planning
+2407,122655,Staffing and Recruiting
+2416,823412,Public Relations and Communications Services
+2429,167212,Entertainment Providers
+2461,15179827,Biotechnology Research
+2471,3170262,Law Practice
+2492,11662,Insurance
+2496,9241727,Hospitals and Health Care
+2497,2193,IT Services and IT Consulting
+2519,899708,Hospitals and Health Care
+2543,139366,Real Estate
+2552,722211,Book and Periodical Publishing
+2564,64761959,Hospitals and Health Care
+2581,508963,Environmental Services
+2589,99430348,Business Consulting and Services
+2598,2951523,Research Services
+2627,85833,Hospitality
+2649,165257,Manufacturing
+2673,2344266,Staffing and Recruiting
+2682,28169,Hospitals and Health Care
+2695,27907642,Accounting
+2731,10931357,Staffing and Recruiting
+2747,163438,Retail
+2749,33246798,Entertainment Providers
+2774,29308,Staffing and Recruiting
+2824,99394495,Motor Vehicle Manufacturing
+2853,1632,Hospitals and Health Care
+2856,136952,Hospitals and Health Care
+2857,64696713,Hospitals and Health Care
+2869,3672,IT Services and IT Consulting
+2877,52615,Chemical Manufacturing
+2882,22338085,Truck Transportation
+2897,32300,Retail Apparel and Fashion
+2907,22303218,Hospitals and Health Care
+2955,68582692,Hospitals and Health Care
+2960,38046,Food and Beverage Services
+2964,2949041,Hospitals and Health Care
+2979,2700263,Financial Services
+2992,23222,Hospitals and Health Care
+3015,5242205,Medical Equipment Manufacturing
+3018,11552333,Wellness and Fitness Services
+3023,98461042,Biotechnology Research
+3037,7978015,Retail Apparel and Fashion
+3060,3570,Software Development
+3089,271541,Retail
+3095,25143,Construction
+3119,1384888,Software Development
+3147,18009120,Software Development
+3150,7587729,Software Development
+3169,36873,Real Estate
+3189,42822796,Wellness and Fitness Services
+3198,76549708,Financial Services
+3260,65533776,Software Development
+3268,1247902,Retail
+3277,622064,Construction
+3291,10875478,Hospitals and Health Care
+3317,77999128,Hospitals and Health Care
+3352,7361,Restaurants
+3367,101810042,Travel Arrangements
+3404,18270206,Retail
+3421,53797792,Insurance
+3447,2257294,Construction
+3479,11152,Plastics Manufacturing
+3497,78735585,Industrial Machinery Manufacturing
+3518,9180986,Environmental Services
+3527,107457,Mental Health Care
+3528,15242812,Aviation and Aerospace Component Manufacturing
+3531,1149540,Real Estate
+3554,85605846,Software Development
+3591,30601088,Non-profit Organizations
+3597,91120238,Law Practice
+3602,30769813,Graphic Design
+3613,424881,Industrial Machinery Manufacturing
+3674,4032655,Hospitality
+3676,82345382,Staffing and Recruiting
+3688,33983,Banking
+3706,2425713,Security and Investigations
+3740,256819,Oil and Gas
+3741,82379212,Software Development
+3751,165053,Staffing and Recruiting
+3811,74477,Staffing and Recruiting
+3828,96283903,Hospitals and Health Care
+3918,89749851,Staffing and Recruiting
+3922,33312265,Construction
+3944,91469979,Broadcast Media Production and Distribution
+3951,28631247,Religious Institutions
+3975,64666470,Computer and Network Security
+3977,97412958,IT Services and IT Consulting
+3986,55052681,Consumer Services
+3994,102802128,Construction
+4032,96781,Venture Capital and Private Equity Principals
+4044,3196,Higher Education
+4059,2516,Higher Education
+4062,931923,Staffing and Recruiting
+4100,629425,"Appliances, Electrical, and Electronics Manufacturing"
+4105,16439,Online Audio and Video Media
+4115,26333,Higher Education
+4158,1752020,Staffing and Recruiting
+4195,165920,Mental Health Care
+4206,41004,Retail Groceries
+4246,4031023,Hospitals and Health Care
+4257,16257321,Hospitals and Health Care
+4272,12605993,Packaging and Containers Manufacturing
+4288,83708,Motor Vehicle Manufacturing
+4322,164152,Design Services
+4342,2564994,Hospitality
+4354,50711,Oil and Gas
+4355,28424,Research Services
+4423,334135,Wellness and Fitness Services
+4489,35505010,Construction
+4503,2382822,Food and Beverage Services
+4529,47158,Construction
+4536,163982,Biotechnology Research
+4550,4335,Construction
+4559,1075046,Hospitals and Health Care
+4576,1658333,IT Services and IT Consulting
+4579,18734816,Software Development
+4584,8893448,Construction
+4601,4896,Insurance
+4616,6137,Software Development
+4627,78461596,Hospitals and Health Care
+4689,6408422,Packaging and Containers Manufacturing
+4747,164798,Financial Services
+4762,1366800,Staffing and Recruiting
+4766,6052,Law Practice
+4773,86935892,Software Development
+4784,163387,Defense and Space Manufacturing
+4803,910095,Hospitality
+4825,67187927,Business Consulting and Services
+4829,4823597,Civic and Social Organizations
+4831,10510386,IT Services and IT Consulting
+4838,25194,Insurance
+4852,96305,Medical Equipment Manufacturing
+4884,95773648,Hospitals and Health Care
+4893,18300211,Food and Beverage Services
+4897,18130925,Staffing and Recruiting
+4928,3101344,Banking
+4934,18249313,Software Development
+4940,41089,Pharmaceutical Manufacturing
+4947,80291068,Staffing and Recruiting
+4962,10938208,Outsourcing and Offshoring Consulting
+4977,7650,Higher Education
+4991,5396344,Staffing and Recruiting
+5018,13073,Hospitals and Health Care
+5045,448970,Law Practice
+5069,4114,Chemical Manufacturing
+5075,46648,Staffing and Recruiting
+5084,2366536,Staffing and Recruiting
+5089,6588622,Design Services
+5112,8024,Government Administration
+5121,1292,Entertainment Providers
+5136,406419,Primary and Secondary Education
+5144,410499,Retail
+5147,18179902,Financial Services
+5148,1266211,Translation and Localization
+5150,8211,Retail
+5159,10987865,Motor Vehicle Manufacturing
+5191,13634,Motor Vehicle Manufacturing
+5192,10795459,Software Development
+5195,10149697,Staffing and Recruiting
+5213,101660952,IT Services and IT Consulting
+5232,10267286,Staffing and Recruiting
+5257,424932,Retail Apparel and Fashion
+5276,12613218,Staffing and Recruiting
+5299,307513,Food and Beverage Services
+5336,2229686,Business Consulting and Services
+5343,2245479,Airlines and Aviation
+5348,81302109,Staffing and Recruiting
+5358,83493460,Retail Apparel and Fashion
+5367,64056,Defense and Space Manufacturing
+5406,10225381,Medical Practices
+5409,772837,Semiconductor Manufacturing
+5433,10646709,Staffing and Recruiting
+5445,91619732,Biotechnology Research
+5469,594915,Software Development
+5484,136629,Law Practice
+5503,1608778,Investment Management
+5504,76502907,Staffing and Recruiting
+5545,3364317,Government Administration
+5561,22208562,Software Development
+5566,1924808,Truck Transportation
+5615,10826331,Software Development
+5619,368900,Staffing and Recruiting
+5627,762365,Real Estate
+5679,79393264,Retail Luxury Goods and Jewelry
+5697,81907751,Manufacturing
+5727,24497,Hospitals and Health Care
+5746,2867730,Staffing and Recruiting
+5747,166430,Staffing and Recruiting
+5781,25041,Packaging and Containers Manufacturing
+5788,162214,IT Services and IT Consulting
+5791,18880506,IT Services and IT Consulting
+5807,11730,Higher Education
+5815,33217558,Non-profit Organizations
+5850,19208334,Individual and Family Services
+5852,2592772,Software Development
+5853,18540268,Software Development
+5858,16157480,Insurance
+5875,10758382,Advertising Services
+5891,225063,Staffing and Recruiting
+5894,2666875,Staffing and Recruiting
+5896,44795,Real Estate
+5926,463913,Law Practice
+5950,7973,IT Services and IT Consulting
+5957,52119178,Security and Investigations
+5964,62869757,IT Services and IT Consulting
+6028,16182096,Food and Beverage Manufacturing
+6029,7242,Retail
+6054,10001423,Food and Beverage Services
+6061,64481,Financial Services
+6083,1277958,Staffing and Recruiting
+6096,74067844,Hospitals and Health Care
+6115,121091,Staffing and Recruiting
+6122,54327886,Real Estate
+6149,40679674,Mental Health Care
+6159,257261,Aviation and Aerospace Component Manufacturing
+6189,109225,Construction
+6197,28850513,Non-profit Organizations
+6201,1372291,Staffing and Recruiting
+6219,92597045,Hospitals and Health Care
+6229,47260,"Appliances, Electrical, and Electronics Manufacturing"
+6233,96485676,Hospitals and Health Care
+6234,2074102,IT Services and IT Consulting
+6245,13574568,IT Services and IT Consulting
+6247,10650177,Business Consulting and Services
+6264,15691,Manufacturing
+6276,76878233,Retail Office Equipment
+6285,2122671,Public Safety
+6301,68168113,Staffing and Recruiting
+6303,1124924,Real Estate
+6310,8636,Higher Education
+6339,80359,Facilities Services
+6367,11022681,Hospitals and Health Care
+6381,33575,Construction
+6431,1597847,IT Services and IT Consulting
+6435,2061777,Non-profit Organizations
+6445,5155930,IT Services and IT Consulting
+6446,235348,Software Development
+6458,82533810,Staffing and Recruiting
+6506,16218,Retail Apparel and Fashion
+6518,1282089,Printing Services
+6538,13406030,Software Development
+6540,2652,Government Administration
+6544,6919,IT Services and IT Consulting
+6584,3056209,Business Consulting and Services
+6586,75497,Food and Beverage Manufacturing
+6599,9857280,Hospitals and Health Care
+6602,101755234,Political Organizations
+6610,98496028,Business Consulting and Services
+6625,9826,IT Services and IT Consulting
+6636,112948,Staffing and Recruiting
+6666,1940159,IT Services and IT Consulting
+6713,410992,Medical Equipment Manufacturing
+6751,82861485,Government Administration
+6778,866507,IT Services and IT Consulting
+6787,40664408,Financial Services
+6823,90637506,Furniture and Home Furnishings Manufacturing
+6853,4815896,Software Development
+6861,215645,Business Consulting and Services
+6900,101791563,Staffing and Recruiting
+6922,9192818,Construction
+6938,66296481,Construction
+6945,75440441,Staffing and Recruiting
+6952,18800181,Staffing and Recruiting
+6958,626382,Staffing and Recruiting
+6964,1013591,Environmental Services
+6980,2471868,Staffing and Recruiting
+7018,46852,Higher Education
+7042,13211176,Staffing and Recruiting
+7062,165359,Insurance
+7070,2049248,IT Services and IT Consulting
+7099,3737467,Food and Beverage Services
+7118,1200217,Individual and Family Services
+7122,1524968,Truck Transportation
+7147,79815,Staffing and Recruiting
+7158,93942,IT Services and IT Consulting
+7187,1010123,Oil and Gas
+7188,2316216,Software Development
+7206,11067,IT Services and IT Consulting
+7209,325397,Retail Apparel and Fashion
+7214,34595,Hospitals and Health Care
+7239,11062886,Wellness and Fitness Services
+7270,5000890,Staffing and Recruiting
+7299,3313368,Medical Practices
+7309,3480801,Education Administration Programs
+7338,4021758,Motor Vehicle Manufacturing
+7370,28305,Chemical Manufacturing
+7371,66639490,IT Services and IT Consulting
+7389,95709184,IT Services and IT Consulting
+7436,94169647,Law Practice
+7443,51687310,Motor Vehicle Manufacturing
+7489,2937226,Staffing and Recruiting
+7493,92917818,IT Services and IT Consulting
+7499,35603678,Entertainment Providers
+7626,93116242,Medical Equipment Manufacturing
+7662,34034,Construction
+7672,15236811,Machinery Manufacturing
+7707,6460595,Information Services
+7712,13664753,IT Services and IT Consulting
+7714,101320,Software Development
+7722,16190749,Recreational Facilities
+7752,165087,Public Policy Offices
+7764,18717,Software Development
+7767,11115535,Staffing and Recruiting
+7800,60851704,"Museums, Historical Sites, and Zoos"
+7863,22325267,Real Estate
+7901,425272,Food and Beverage Services
+7913,617457,Medical Equipment Manufacturing
+7917,206040,"Transportation, Logistics, Supply Chain and Storage"
+7924,1460572,Biotechnology Research
+7933,40654174,Software Development
+7947,99259838,Law Practice
+7963,20107770,Hospitals and Health Care
+8007,5034686,Primary and Secondary Education
+8009,92676690,Biotechnology Research
+8038,33264342,Wholesale Building Materials
+8045,98496045,Individual and Family Services
+8062,26894,Financial Services
+8081,33246441,Financial Services
+8088,2465,Advertising Services
+8118,10875172,Biotechnology Research
+8146,98785980,IT Services and IT Consulting
+8191,3638,Higher Education
+8193,481729,Staffing and Recruiting
+8195,18382984,Professional Training and Coaching
+8235,2642004,Wholesale
+8240,7463,Utilities
+8274,88069588,Manufacturing
+8306,6630714,Real Estate
+8333,2446198,Staffing and Recruiting
+8343,2214607,Real Estate
+8353,1683442,IT Services and IT Consulting
+8371,34272,Aviation and Aerospace Component Manufacturing
+8385,35507441,IT Services and IT Consulting
+8411,53849982,Medical Practices
+8416,87089640,Personal Care Product Manufacturing
+8422,261562,IT Services and IT Consulting
+8447,882674,Business Consulting and Services
+8464,1267571,Truck Transportation
+8544,3100120,Renewable Energy Semiconductor Manufacturing
+8548,13021252,Beverage Manufacturing
+8576,28526,IT Services and IT Consulting
+8579,67220856,Staffing and Recruiting
+8587,66900474,Mental Health Care
+8600,21743,Construction
+8628,5508,Law Practice
+8649,18292,Translation and Localization
+8653,42945570,Financial Services
+8658,19023,Motor Vehicle Manufacturing
+8690,40018,Defense and Space Manufacturing
+8717,37269899,Hospitals and Health Care
+8726,68318325,Biotechnology Research
+8736,15091444,Law Practice
+8773,96930022,Staffing and Recruiting
+8780,1179477,IT Services and IT Consulting
+8824,51649570,IT Services and IT Consulting
+8829,93075952,Software Development
+8830,8381,Government Relations Services
+8840,74335050,Primary and Secondary Education
+8850,77169664,Mental Health Care
+8888,1698028,Staffing and Recruiting
+8897,19163454,Manufacturing
+8909,80938105,Staffing and Recruiting
+8910,2088722,Computer Hardware Manufacturing
+8916,2701198,Staffing and Recruiting
+8941,102352461,Hospitals and Health Care
+8948,48654,Advertising Services
+8950,946084,Advertising Services
+8955,10423278,Mental Health Care
+8961,16058744,Manufacturing
+8992,6385880,IT Services and IT Consulting
+9066,115804,IT Services and IT Consulting
+9102,163846,Oil and Gas
+9129,18870,Airlines and Aviation
+9145,1010140,Farming
+9163,82569,Manufacturing
+9169,101841934,Construction
+9192,18924689,Medical Equipment Manufacturing
+9219,17663,Computer Hardware Manufacturing
+9227,84126489,Law Practice
+9263,495856,Design Services
+9265,12899396,Real Estate
+9293,16054358,Medical Practices
+9309,103649,Food and Beverage Manufacturing
+9322,57404291,Hospitals and Health Care
+9371,3961,Biotechnology Research
+9372,3718376,Broadcast Media Production and Distribution
+9373,3128,IT Services and IT Consulting
+9388,32062918,Banking
+9396,28132450,Hospitals and Health Care
+9399,3475514,Construction
+9405,2913460,Wholesale
+9427,63053,Mental Health Care
+9440,3292101,Hospitals and Health Care
+9442,60603929,Hospitals and Health Care
+9484,3822450,Retail
+9502,2288217,Restaurants
+9504,113254,Software Development
+9531,631652,Business Consulting and Services
+9537,20723,Motor Vehicle Manufacturing
+9544,46529,Insurance
+9567,439909,Venture Capital and Private Equity Principals
+9576,3696174,Non-profit Organizations
+9583,233954,Oil and Gas
+9594,2129930,Software Development
+9617,9356698,Defense and Space Manufacturing
+9623,601919,Software Development
+9631,73789809,Staffing and Recruiting
+9639,6390334,Wellness and Fitness Services
+9640,101649613,Software Development
+9658,49028,Software Development
+9673,13787,Retail
+9681,18952365,Hospitals and Health Care
+9683,691458,Government Administration
+9701,11322,Construction
+9704,3032528,IT Services and IT Consulting
+9705,90427386,Software Development
+9785,35584944,Hospitals and Health Care
+9796,79013926,Software Development
+9827,830603,Government Administration
+9839,3296572,Civil Engineering
+9884,76880902,Staffing and Recruiting
+9902,18179239,Retail
+9912,657475,Staffing and Recruiting
+9923,75519117,Media Production
+9927,10443100,Wellness and Fitness Services
+9929,3237769,Staffing and Recruiting
+9940,18835575,Staffing and Recruiting
+9950,3045278,IT Services and IT Consulting
+9978,82505420,Real Estate
+9984,1189796,Financial Services
+9989,361097,Hospitality
+10003,78283079,Hospitals and Health Care
+10047,2647784,Staffing and Recruiting
+10050,57171,Banking
+10084,57189496,Mental Health Care
+10094,97464196,IT Services and IT Consulting
+10116,1262896,Motor Vehicle Manufacturing
+10120,75103348,IT Services and IT Consulting
+10130,1901416,Accounting
+10131,10634503,Construction
+10145,5356751,Business Consulting and Services
+10175,403393,Public Safety
+10229,1324164,Industrial Machinery Manufacturing
+10242,27099326,Hospitals and Health Care
+10287,46954,Manufacturing
+10302,2736320,Industrial Machinery Manufacturing
+10333,1314202,IT Services and IT Consulting
+10359,65229,Software Development
+10414,18161797,Industrial Machinery Manufacturing
+10419,1031662,Government Administration
+10450,2302548,Staffing and Recruiting
+10481,343264,Machinery Manufacturing
+10494,69736805,Staffing and Recruiting
+10509,57409,Staffing and Recruiting
+10511,103383086,Financial Services
+10525,493527,Staffing and Recruiting
+10570,87085934,IT Services and IT Consulting
+10574,74117501,Staffing and Recruiting
+10593,21488,Environmental Services
+10615,736168,Software Development
+10643,5273808,Retail Apparel and Fashion
+10649,8449,Higher Education
+10665,50609,"Museums, Historical Sites, and Zoos"
+10675,27169417,Advertising Services
+10692,165971,Semiconductor Manufacturing
+10714,74097560,Staffing and Recruiting
+10733,15238307,IT Services and IT Consulting
+10748,42906555,Advertising Services
+10762,17544,Non-profit Organizations
+10782,66436,Staffing and Recruiting
+10787,365347,Research Services
+10803,82263,Staffing and Recruiting
+10806,81949095,IT Services and IT Consulting
+10824,1138065,Software Development
+10838,11016612,Biotechnology Research
+10849,12835,Law Practice
+10857,18080299,Medical Practices
+10868,5130294,Staffing and Recruiting
+10872,3165672,Staffing and Recruiting
+10884,2132939,Staffing and Recruiting
+10917,36017169,Environmental Services
+10920,70834274,Hospitals and Health Care
+10929,1022431,Furniture and Home Furnishings Manufacturing
+10934,84201,Manufacturing
+10947,3286848,Construction
+10959,18693608,Software Development
+10964,995588,Hospitals and Health Care
+10967,79830368,IT Services and IT Consulting
+10969,6574648,Business Consulting and Services
+10979,17885819,Food and Beverage Manufacturing
+10993,3563676,Staffing and Recruiting
+10995,612493,Government Administration
+11028,3154911,Staffing and Recruiting
+11053,35224,Staffing and Recruiting
+11096,6579,Computers and Electronics Manufacturing
+11111,2669,Motor Vehicle Manufacturing
+11117,230282,"Glass, Ceramics and Concrete Manufacturing"
+11134,9303488,Facilities Services
+11141,18537820,Food and Beverage Services
+11143,5037848,Construction
+11152,163149,Higher Education
+11180,89656062,Entertainment Providers
+11192,2079661,Pharmaceutical Manufacturing
+11195,18495711,Food and Beverage Manufacturing
+11198,606356,Research Services
+11212,10625595,Education Administration Programs
+11223,67524034,Professional Training and Coaching
+11272,99195340,Software Development
+11287,1342014,Furniture and Home Furnishings Manufacturing
+11291,3031253,Wholesale Building Materials
+11320,206006,Insurance
+11345,1035742,Primary and Secondary Education
+11374,4097,Motor Vehicle Manufacturing
+11395,166328,Software Development
+11404,86963551,Software Development
+11407,29104,Staffing and Recruiting
+11469,90450727,Government Administration
+11481,41854,Food and Beverage Services
+11491,4080,Animation and Post-production
+11502,1356549,Construction
+11506,532049,Insurance
+11541,72187185,Advertising Services
+11557,18119365,Retail Apparel and Fashion
+11577,98552009,Construction
+11586,17989842,Real Estate
+11589,35891828,IT Services and IT Consulting
+11605,18611583,Construction
+11614,13039,Staffing and Recruiting
+11619,136816,Law Practice
+11649,3094595,IT Services and IT Consulting
+11655,75768490,Higher Education
+11672,65582532,Advertising Services
+11678,90516024,Staffing and Recruiting
+11699,6477,Higher Education
+11700,23748354,Semiconductor Manufacturing
+11706,1989952,Hospitals and Health Care
+11721,222632,Staffing and Recruiting
+11741,15074104,Truck Transportation
+11743,35088,Accounting
+11763,52136858,IT Services and IT Consulting
+11774,6623506,Mental Health Care
+11800,19134588,Software Development
+11812,74777356,IT Services and IT Consulting
+11821,327505,Nanotechnology Research
+11863,7962426,IT Services and IT Consulting
+11895,90569489,Pharmaceutical Manufacturing
+11953,472056,Oil and Gas
+11988,78842345,Fundraising
+11998,3783248,Higher Education
+12005,111316,Individual and Family Services
+12006,319328,Education Administration Programs
+12026,163115,Hospitality
+12028,9322987,Business Consulting and Services
+12030,1264953,Staffing and Recruiting
+12032,2656267,Hospitals and Health Care
+12059,1088884,IT Services and IT Consulting
+12074,1409198,Utilities
+12084,525011,Non-profit Organizations
+12101,98476512,IT Services and IT Consulting
+12117,3155387,Security and Investigations
+12136,13660588,IT Services and IT Consulting
+12149,90614573,Business Consulting and Services
+12193,542742,Mental Health Care
+12198,101566602,Government Administration
+12230,34867,Wellness and Fitness Services
+12231,90413667,Food and Beverage Manufacturing
+12245,62200365,Primary and Secondary Education
+12248,27014139,Renewable Energy Semiconductor Manufacturing
+12264,35479,IT Services and IT Consulting
+12281,10087902,Hospitals and Health Care
+12288,15283,Hospitals and Health Care
+12322,1551641,Staffing and Recruiting
+12343,10279322,Financial Services
+12364,3717968,Oil and Gas
+12393,78060668,IT Services and IT Consulting
+12399,35602233,Oil and Gas
+12405,11006242,IT Services and IT Consulting
+12414,40940284,Staffing and Recruiting
+12423,3826870,Animation and Post-production
+12426,148784,Computers and Electronics Manufacturing
+12429,90606311,Staffing and Recruiting
+12439,42007,Truck Transportation
+12481,52573401,Hospitals and Health Care
+12504,5139117,Public Safety
+12520,1088,Semiconductor Manufacturing
+12532,69856876,Mental Health Care
+12537,15440862,Insurance
+12552,477190,Business Consulting and Services
+12554,405042,Truck Transportation
+12558,718471,IT Services and IT Consulting
+12593,1597932,Telecommunications
+12640,35488078,Telecommunications
+12650,80206,Staffing and Recruiting
+12681,2586261,IT Services and IT Consulting
+12707,101354,Real Estate
+12724,228650,Staffing and Recruiting
+12731,11713,Defense and Space Manufacturing
+12733,11424,Financial Services
+12736,86319778,Real Estate
+12737,2650980,Mental Health Care
+12746,6883742,Retail
+12807,372589,Telecommunications
+12814,2853195,Motor Vehicle Manufacturing
+12872,66884698,Advertising Services
+12887,5095359,Performing Arts
+12893,378624,Higher Education
+12938,73185238,Staffing and Recruiting
+12992,3536,Public Relations and Communications Services
+13000,18099373,Staffing and Recruiting
+13010,73772656,Financial Services
+13015,2584,Higher Education
+13044,69989,"Transportation, Logistics, Supply Chain and Storage"
+13094,552466,Facilities Services
+13104,362321,Political Organizations
+13106,528122,Industrial Machinery Manufacturing
+13121,2917251,Business Consulting and Services
+13123,18872958,Non-profit Organizations
+13132,56585163,Environmental Services
+13137,762603,Non-profit Organizations
+13145,64862701,Food and Beverage Manufacturing
+13147,277338,Textile Manufacturing
+13161,292978,IT Services and IT Consulting
+13170,3710352,Manufacturing
+13268,6936,Advertising Services
+13270,35492991,Staffing and Recruiting
+13279,23154,Research Services
+13280,9435,Food and Beverage Manufacturing
+13296,786063,IT Services and IT Consulting
+13298,34731,Farming
+13336,164713,Pharmaceutical Manufacturing
+13370,2822,Manufacturing
+13383,437393,Software Development
+13403,3162,Higher Education
+13421,53193,Wholesale Building Materials
+13427,2648566,Insurance
+13460,79560,Furniture and Home Furnishings Manufacturing
+13478,38879,Machinery Manufacturing
+13481,276981,Software Development
+13483,5287595,Computer and Network Security
+13494,12291,Packaging and Containers Manufacturing
+13518,71910,Construction
+13542,209610,Mining
+13550,1294941,Hospitals and Health Care
+13572,5372,Higher Education
+13589,165784,Design Services
+13594,460139,Hospitals and Health Care
+13620,2173365,Financial Services
+13627,371348,Gambling Facilities and Casinos
+13630,2155566,Architecture and Planning
+13639,412012,IT Services and IT Consulting
+13640,120853,Hospitals and Health Care
+13642,281622,Environmental Services
+13684,11373,Higher Education
+13685,2295646,Utilities
+13692,5831,Biotechnology Research
+13719,15317,Motor Vehicle Manufacturing
+13767,1069062,Government Administration
+13799,166277,Advertising Services
+13820,762535,Software Development
+13849,131648,Construction
+13871,58469103,Higher Education
+13883,165308,Semiconductor Manufacturing
+13896,7378,Financial Services
+13899,6587602,Medical Equipment Manufacturing
+13903,2278459,Truck Transportation
+13982,3621765,Construction
+14035,2562699,Software Development
+14038,2113831,Business Consulting and Services
+14042,3662174,Construction
+14043,2551071,Construction
+14065,7701,Defense and Space Manufacturing
+14088,9945,Higher Education
+14099,8058,Staffing and Recruiting
+14101,162486,Hospitals and Health Care
+14115,15349895,Law Practice
+14142,21607,Medical Equipment Manufacturing
+14160,93616144,Higher Education
+14164,316370,Hospitals and Health Care
+14174,61421,Primary and Secondary Education
+14183,22307995,Oil and Gas
+14184,3545690,Retail Office Equipment
+14213,67507,Staffing and Recruiting
+14214,80078228,Advertising Services
+14233,71220701,Real Estate
+14274,87465,Insurance
+14278,216716,Staffing and Recruiting
+14292,100912459,Business Consulting and Services
+14301,7581439,Real Estate
+14337,43010,IT Services and IT Consulting
+14340,21250,Industrial Machinery Manufacturing
+14342,11061951,Civil Engineering
+14374,8619,Food and Beverage Manufacturing
+14375,2673675,Financial Services
+14404,7270305,Accounting
+14413,80552324,Travel Arrangements
+14420,3696072,Retail
+14439,18211624,Aviation and Aerospace Component Manufacturing
+14453,96240859,Hospitals and Health Care
+14457,4505,Book and Periodical Publishing
+14464,1017807,Non-profit Organizations
+14475,100639983,Non-profit Organizations
+14509,3559341,Software Development
+14511,12189,Political Organizations
+14530,54350802,Biotechnology Research
+14565,98795534,Software Development
+14571,16075064,Hospitals and Health Care
+14579,62373,Construction
+14611,119272,Construction
+14685,1052946,E-Learning Providers
+14694,19137257,Design Services
+14715,62237,Real Estate
+14717,13338268,Human Resources Services
+14718,97021703,Hospitals and Health Care
+14737,1204008,E-Learning Providers
+14739,64379,Staffing and Recruiting
+14750,6766,Hospitals and Health Care
+14767,71145765,IT Services and IT Consulting
+14784,11169,Oil and Gas
+14792,166821,Hospitals and Health Care
+14816,4692,Telecommunications
+14837,52177012,Construction
+14851,6205,IT Services and IT Consulting
+14916,67295129,Insurance
+14942,166753,Industrial Machinery Manufacturing
+14943,4985352,IT Services and IT Consulting
+14961,893928,Construction
+14984,68017,Machinery Manufacturing
+14985,109004,Non-profit Organizations
+15016,4293163,"Transportation, Logistics, Supply Chain and Storage"
+15029,15968066,Furniture and Home Furnishings Manufacturing
+15062,36164287,Food and Beverage Manufacturing
+15108,165648,Semiconductor Manufacturing
+15140,6651250,Retail Apparel and Fashion
+15162,7099540,Manufacturing
+15191,1145681,Accounting
+15197,2440656,Software Development
+15203,1404302,Retail
+15208,15504,Airlines and Aviation
+15215,1555109,Financial Services
+15218,3307418,Advertising Services
+15225,3610698,IT Services and IT Consulting
+15229,102797436,Higher Education
+15231,70980644,Medical Practices
+15240,101742705,Real Estate
+15246,164543,Retail
+15250,101978665,Advertising Services
+15258,166039,Software Development
+15263,1045296,Hospitals and Health Care
+15281,1832311,Biotechnology Research
+15283,3832633,Wellness and Fitness Services
+15320,753083,Business Consulting and Services
+15331,116552,Civil Engineering
+15339,35661937,Wellness and Fitness Services
+15345,897906,Hospitals and Health Care
+15347,77056563,IT Services and IT Consulting
+15370,76360107,IT Services and IT Consulting
+15383,6596884,Outsourcing and Offshoring Consulting
+15386,36128638,Civil Engineering
+15402,95761,Software Development
+15408,1599309,Advertising Services
+15410,38913,Civil Engineering
+15419,22285419,Advertising Services
+15459,4740314,Industrial Machinery Manufacturing
+15462,503931,IT Services and IT Consulting
+15463,35904,Financial Services
+15507,4788849,Law Practice
+15547,9446798,IT Services and IT Consulting
+15579,10133836,Staffing and Recruiting
+15594,1623211,Financial Services
+15617,80851405,IT Services and IT Consulting
+15626,91374048,"Transportation, Logistics, Supply Chain and Storage"
+15658,2624664,Wellness and Fitness Services
+15672,52900957,Legal Services
+15700,104873,"Appliances, Electrical, and Electronics Manufacturing"
+15735,3766741,Machinery Manufacturing
+15740,27249912,Food and Beverage Services
+15746,14799367,Primary and Secondary Education
+15782,2940456,Construction
+15785,5185,Pharmaceutical Manufacturing
+15855,2203829,Non-profit Organizations
+15857,4035035,Retail Apparel and Fashion
+15873,82095941,IT Services and IT Consulting
+15900,18586491,Staffing and Recruiting
+15941,102453101,Truck Transportation
+15957,78133768,Renewable Energy Semiconductor Manufacturing
+15973,80410136,Biotechnology Research
+15982,1666,Software Development
+15987,207570,IT Services and IT Consulting
+15990,9220290,Public Relations and Communications Services
+16008,95041577,Hospitality
+16014,9332405,Hospitals and Health Care
+16015,79716451,Design Services
+16016,101796,Business Consulting and Services
+16026,25891,Manufacturing
+16041,2033166,Pharmaceutical Manufacturing
+16046,2573460,Entertainment Providers
+16054,10923928,IT Services and IT Consulting
+16062,926041,Software Development
+16071,15243220,Financial Services
+16072,112761,Insurance
+16080,1388679,Hospitality
+16083,621180,Law Practice
+16118,5347639,Aviation and Aerospace Component Manufacturing
+16121,77051956,Staffing and Recruiting
+16125,71549719,Construction
+16163,2882605,Financial Services
+16223,18924094,Writing and Editing
+16234,97196820,Wholesale
+16240,945727,Individual and Family Services
+16243,2205342,Hospitals and Health Care
+16268,32232,Travel Arrangements
+16272,86903915,Insurance
+16275,12670967,Software Development
+16311,622557,Government Administration
+16320,57749,Business Consulting and Services
+16329,1430329,Financial Services
+16335,1058216,Manufacturing
+16348,18873281,Venture Capital and Private Equity Principals
+16375,60588,Non-profit Organizations
+16386,92604967,Retail Apparel and Fashion
+16398,362780,Construction
+16404,3048848,Food and Beverage Services
+16409,86479,Higher Education
+16469,18785629,Retail Apparel and Fashion
+16476,50507,Oil and Gas
+16502,11841554,IT Services and IT Consulting
+16567,1481176,Non-profit Organizations
+16595,2784702,Food and Beverage Services
+16608,913665,Financial Services
+16611,4556,Higher Education
+16660,61013,Business Consulting and Services
+16669,207927,Staffing and Recruiting
+16689,8838419,Mining
+16695,11307040,Staffing and Recruiting
+16700,806395,IT Services and IT Consulting
+16712,1064013,Staffing and Recruiting
+16715,39423,Farming
+16728,5030929,Beverage Manufacturing
+16750,80862166,Renewable Energy Semiconductor Manufacturing
+16763,3734016,Insurance
+16767,36768365,Food and Beverage Services
+16779,991576,Insurance
+16819,91383228,Staffing and Recruiting
+16821,6536381,Hospitals and Health Care
+16842,58360388,Accounting
+16846,6464539,Software Development
+16935,11084085,IT Services and IT Consulting
+16956,49152032,Public Relations and Communications Services
+16957,70918322,Software Development
+16961,77769152,IT Services and IT Consulting
+17009,13651,Financial Services
+17020,1843038,Wellness and Fitness Services
+17034,15242404,Staffing and Recruiting
+17051,71558134,Staffing and Recruiting
+17066,1645141,Design Services
+17077,648924,Information Services
+17083,28974324,Advertising Services
+17093,65646554,IT Services and IT Consulting
+17096,971890,Real Estate
+17128,7241507,Construction
+17142,3717084,Design Services
+17145,9714055,Retail Apparel and Fashion
+17175,9313790,Staffing and Recruiting
+17190,80416103,Real Estate
+17202,101731451,Staffing and Recruiting
+17218,10072976,Staffing and Recruiting
+17244,54659403,Design Services
+17245,663663,Staffing and Recruiting
+17251,162418,Non-profit Organizations
+17257,8602,Retail Luxury Goods and Jewelry
+17265,3788875,Architecture and Planning
+17316,19431,Defense and Space Manufacturing
+17317,4798709,Staffing and Recruiting
+17335,319107,Consumer Services
+17352,10116802,Construction
+17353,34072437,IT Services and IT Consulting
+17379,1270342,Staffing and Recruiting
+17456,10622127,Legal Services
+17470,35509855,Staffing and Recruiting
+17479,16020596,Beverage Manufacturing
+17490,2173297,Wholesale Building Materials
+17493,1056618,Staffing and Recruiting
+17515,1022601,Software Development
+17519,35678257,Software Development
+17525,575501,Government Administration
+17527,75724188,Hospitals and Health Care
+17533,928047,Wellness and Fitness Services
+17581,95747859,Truck Transportation
+17599,74293281,Gambling Facilities and Casinos
+17600,10140364,IT Services and IT Consulting
+17647,89921449,Staffing and Recruiting
+17660,644691,Hospitality
+17662,82818781,IT Services and IT Consulting
+17666,18047880,Architecture and Planning
+17686,1124499,Hospitals and Health Care
+17691,37236953,Staffing and Recruiting
+17693,72209642,Staffing and Recruiting
+17702,268974,Telecommunications
+17713,11390,Medical Equipment Manufacturing
+17716,87109122,Construction
+17745,28125361,Utilities
+17812,531590,Staffing and Recruiting
+17840,11682570,IT Services and IT Consulting
+17941,4404462,Financial Services
+17943,2941,Government Administration
+17979,149617,Law Practice
+17980,4820469,"Transportation, Logistics, Supply Chain and Storage"
+18006,2316063,Telecommunications
+18036,76719929,IT Services and IT Consulting
+18041,14757428,IT Services and IT Consulting
+18112,82282669,Non-profit Organizations
+18133,47203305,Construction
+18134,20287647,Food and Beverage Services
+18143,10588586,Construction
+18175,2711806,Software Development
+18198,3523284,Real Estate
+18259,127228,Paper and Forest Product Manufacturing
+18265,534276,Human Resources Services
+18271,92592217,"Technology, Information and Internet"
+18287,2601238,Environmental Services
+18331,101687931,Construction
+18338,50150,Civic and Social Organizations
+18346,71628973,Truck Transportation
+18366,2730523,Food and Beverage Services
+18385,27302,Manufacturing
+18427,9473284,Retail
+18438,10444953,Financial Services
+18459,23674217,Retail
+18460,102230928,Construction
+18461,3799891,Non-profit Organizations
+18481,3940345,Biotechnology Research
+18488,121822,Architecture and Planning
+18525,99199828,Biotechnology Research
+18546,68664479,Biotechnology Research
+18549,80930183,Environmental Services
+18553,2241093,IT Services and IT Consulting
+18555,75068855,Manufacturing
+18578,74915668,Aviation and Aerospace Component Manufacturing
+18587,40672840,Hospitals and Health Care
+18600,43251468,Advertising Services
+18627,533732,Farming
+18632,64536012,Manufacturing
+18654,9056852,Law Practice
+18659,466667,Education Administration Programs
+18694,3957430,Education Administration Programs
+18697,16141806,Architecture and Planning
+18705,28126126,Staffing and Recruiting
+18706,2926074,Renewable Energy Semiconductor Manufacturing
+18740,5139627,Telecommunications
+18742,10462531,Staffing and Recruiting
+18750,1010446,Real Estate
+18757,385662,Human Resources Services
+18759,2652476,Airlines and Aviation
+18776,28790537,Renewable Energy Semiconductor Manufacturing
+18782,164934,Motor Vehicle Manufacturing
+18810,80325,Real Estate
+18813,23902,IT Services and IT Consulting
+18814,426394,Entertainment Providers
+18832,83537745,Financial Services
+18855,15898825,Construction
+18861,1927783,Individual and Family Services
+18875,132277,Motor Vehicle Manufacturing
+18877,547179,Tobacco Manufacturing
+18893,77728930,Wellness and Fitness Services
+18895,1105221,Advertising Services
+18918,15100301,Higher Education
+18921,90562910,Business Consulting and Services
+18960,2956810,Hospitals and Health Care
+18982,3602147,Utilities
+18985,432701,Hospitals and Health Care
+18997,1173323,Staffing and Recruiting
+19033,69680824,Financial Services
+19044,33167,Hospitals and Health Care
+19057,65814803,Software Development
+19063,54284298,Advertising Services
+19065,101949,Law Practice
+19102,10971222,Real Estate
+19116,65498518,Manufacturing
+19119,129778,Software Development
+19146,9470309,Real Estate
+19151,3058895,Non-profit Organizations
+19161,27055364,Banking
+19164,24999180,Automation Machinery Manufacturing
+19165,957015,Oil and Gas
+19172,90609864,Financial Services
+19177,83130,Security and Investigations
+19214,302991,Libraries
+19239,11724679,Media Production
+19276,2796024,Defense and Space Manufacturing
+19283,3488196,Financial Services
+19326,6154,Hospitals and Health Care
+19330,98803167,Financial Services
+19331,163302,Construction
+19347,1782858,Automation Machinery Manufacturing
+19349,71417,Computer and Network Security
+19409,27169808,Real Estate
+19415,3115845,Food and Beverage Manufacturing
+19417,10860178,IT Services and IT Consulting
+19451,323799,Civil Engineering
+19463,97376,Human Resources Services
+19486,1383902,Medical Equipment Manufacturing
+19505,75059318,IT Services and IT Consulting
+19519,71102449,Professional Training and Coaching
+19531,114971,Staffing and Recruiting
+19554,101685092,IT Services and IT Consulting
+19571,49173095,Spectator Sports
+19611,79751913,IT Services and IT Consulting
+19639,98976482,Advertising Services
+19677,784652,Software Development
+19714,99916293,Staffing and Recruiting
+19723,6090675,Medical Equipment Manufacturing
+19736,3155506,Business Consulting and Services
+19743,68629,Software Development
+19769,65110000,Software Development
+19778,1637984,Retail Office Equipment
+19805,3587,Staffing and Recruiting
+19808,28067,Financial Services
+19843,27013,Shipbuilding
+19860,846940,Hospitals and Health Care
+19865,28985425,Gambling Facilities and Casinos
+19868,96815,Financial Services
+19899,279565,Financial Services
+19932,946628,Medical Equipment Manufacturing
+19957,9146,Higher Education
+19963,40654157,Software Development
+19998,37558576,Staffing and Recruiting
+20002,97466780,Staffing and Recruiting
+20005,59058833,Retail Apparel and Fashion
+20025,11420022,Wholesale Building Materials
+20033,27062130,Manufacturing
+20042,22406,Venture Capital and Private Equity Principals
+20050,23718587,Venture Capital and Private Equity Principals
+20067,10744,Hospitals and Health Care
+20086,33205879,Human Resources Services
+20099,163863,Retail
+20101,81937399,IT Services and IT Consulting
+20121,77770138,Staffing and Recruiting
+20122,19108,Retail Apparel and Fashion
+20123,4018188,Banking
+20139,60605,IT Services and IT Consulting
+20145,87839,IT Services and IT Consulting
+20150,8628486,Construction
+20205,3233162,Fundraising
+20207,450279,Food and Beverage Manufacturing
+20210,1684870,Hospitals and Health Care
+20216,3991770,Hospitals and Health Care
+20218,5615100,Biotechnology Research
+20229,91188,Construction
+20275,43284278,Law Practice
+20290,2233035,Utilities
+20304,759441,Business Consulting and Services
+20314,81963443,Construction
+20317,3094255,Farming
+20336,43707,Hospitals and Health Care
+20360,81064670,Legal Services
+20387,505733,Retail
+20389,2329,Automation Machinery Manufacturing
+20397,101739220,Hospitals and Health Care
+20398,17884612,Business Consulting and Services
+20405,1556180,IT Services and IT Consulting
+20427,1078837,Insurance
+20434,9344169,Pharmaceutical Manufacturing
+20475,101037477,Business Consulting and Services
+20484,9381059,Computer and Network Security
+20489,1326119,Textile Manufacturing
+20507,89703985,Biotechnology Research
+20509,2500904,Hospitality
+20510,21386,Higher Education
+20513,71700526,Telecommunications
+20527,89725082,Human Resources Services
+20534,107372,Financial Services
+20552,72293571,Manufacturing
+20554,327471,Hospitality
+20572,33265090,Construction
+20580,29299670,Printing Services
+20602,74746790,Software Development
+20604,102111928,Law Practice
+20611,1684122,Motor Vehicle Manufacturing
+20618,33283552,Construction
+20624,11564573,Higher Education
+20638,154700,Wholesale
+20645,89610825,Business Consulting and Services
+20651,7945562,Wholesale Building Materials
+20672,2977057,Recreational Facilities
+20680,15219845,Biotechnology Research
+20708,36018087,Hospitals and Health Care
+20736,27060685,Advertising Services
+20737,3231326,IT Services and IT Consulting
+20765,37213085,Advertising Services
+20770,5209769,Mental Health Care
+20792,64265083,Software Development
+20799,68994993,Motor Vehicle Manufacturing
+20846,85561,IT Services and IT Consulting
+20876,700995,Photography
+20899,19550,Higher Education
+20906,93075306,Construction
+20909,1670794,Education Administration Programs
+20947,68962574,Business Consulting and Services
+20979,1325694,Farming
+20991,57902,Financial Services
+20992,1164772,Motor Vehicle Manufacturing
+21002,7804394,Construction
+21013,66674,IT Services and IT Consulting
+21017,1641078,Personal Care Product Manufacturing
+21023,15637586,Hospitals and Health Care
+21026,79764221,Law Practice
+21036,3633597,Advertising Services
+21055,25296,Construction
+21056,33295996,Utilities
+21066,93205951,Retail
+21072,1377,Telecommunications
+21116,1495405,Biotechnology Research
+21138,16203703,Non-profit Organizations
+21146,11076962,Mental Health Care
+21151,34912254,Software Development
+21154,19225878,Staffing and Recruiting
+21162,74722548,Hospitals and Health Care
+21166,3898491,Restaurants
+21197,42211,"Appliances, Electrical, and Electronics Manufacturing"
+21219,1224,Armed Forces
+21264,76521590,Retail
+21268,3135599,Biotechnology Research
+21269,1092777,Financial Services
+21277,4245359,Chemical Manufacturing
+21336,1165758,Insurance
+21357,1126777,Hospitals and Health Care
+21372,5355,Security and Investigations
+21409,101694510,Restaurants
+21415,19105433,Education Administration Programs
+21421,111265,Software Development
+21434,6970,Financial Services
+21470,1295230,Staffing and Recruiting
+21487,75448584,Staffing and Recruiting
+21488,10509944,Medical Equipment Manufacturing
+21491,494870,Industrial Machinery Manufacturing
+21493,101602268,Law Practice
+21499,1376949,Industrial Machinery Manufacturing
+21501,3115862,Retail
+21522,83101780,IT Services and IT Consulting
+21582,3618960,IT Services and IT Consulting
+21601,37519,Chemical Manufacturing
+21625,100548540,Oil and Gas
+21656,29002,Religious Institutions
+21658,461567,Education Administration Programs
+21673,223873,Telecommunications
+21675,3272381,Computers and Electronics Manufacturing
+21698,69518525,Wellness and Fitness Services
+21724,3757,Higher Education
+21725,516902,IT Services and IT Consulting
+21736,3163836,Software Development
+21761,1407039,Wellness and Fitness Services
+21780,10387646,Mental Health Care
+21791,59755,Retail Office Equipment
+21810,35870,Non-profit Organizations
+21811,11818978,Software Development
+21820,145554,Professional Training and Coaching
+21844,82859598,Security and Investigations
+21847,148189,IT Services and IT Consulting
+21865,88169973,Paper and Forest Product Manufacturing
+21903,2474282,IT Services and IT Consulting
+21915,2240141,Wholesale
+21938,4805509,"Transportation, Logistics, Supply Chain and Storage"
+21976,84554192,Automation Machinery Manufacturing
+22000,103468936,Business Consulting and Services
+22023,740469,Staffing and Recruiting
+22029,70539579,Non-profit Organizations
+22032,451962,Hospitals and Health Care
+22034,86917702,Civil Engineering
+22050,18852745,Law Practice
+22059,13185421,IT Services and IT Consulting
+22064,521084,Consumer Services
+22090,4406757,Primary and Secondary Education
+22102,11076214,Software Development
+22114,9667254,Truck Transportation
+22130,2507823,Financial Services
+22163,3968463,Civil Engineering
+22179,717995,Food and Beverage Manufacturing
+22185,18621681,Non-profit Organizations
+22194,106573,Law Practice
+22285,283560,Broadcast Media Production and Distribution
+22311,202963,Business Consulting and Services
+22327,71081692,Facilities Services
+22343,75589548,Advertising Services
+22373,6465593,Research Services
+22385,89178311,Hospitals and Health Care
+22396,79490181,Advertising Services
+22420,1275357,Government Administration
+22495,126106,Financial Services
+22553,131801,Airlines and Aviation
+22554,4590,Aviation and Aerospace Component Manufacturing
+22563,2326416,Consumer Services
+22579,841976,Non-profit Organizations
+22584,35690310,Law Practice
+22585,72510423,Manufacturing
+22600,58888,Oil and Gas
+22601,691067,Wellness and Fitness Services
+22627,79646360,Mental Health Care
+22668,229432,IT Services and IT Consulting
+22695,1051620,IT Services and IT Consulting
+22718,11832,Higher Education
+22764,103466352,Business Consulting and Services
+22766,2500598,IT Services and IT Consulting
+22767,25042938,IT Services and IT Consulting
+22772,89968913,Food and Beverage Manufacturing
+22801,85952,Business Consulting and Services
+22812,14773918,Medical Equipment Manufacturing
+22824,1786479,Chemical Manufacturing
+22827,91579,Financial Services
+22839,9725360,Retail
+22840,99234508,IT Services and IT Consulting
+22841,62922100,Travel Arrangements
+22851,9609539,Hospitals and Health Care
+22903,3698299,Law Practice
+22908,19499,Higher Education
+22951,14926,Retail
+22954,22746,Spectator Sports
+22966,2741981,Law Practice
+22978,3554649,"Technology, Information and Internet"
+23010,17984963,Religious Institutions
+23016,270028,Advertising Services
+23042,4028354,Spectator Sports
+23043,2001359,IT Services and IT Consulting
+23055,1365746,Wholesale Building Materials
+23073,8849197,Non-profit Organizations
+23088,2958,Government Administration
+23102,15406352,Law Practice
+23116,35472336,Wholesale Building Materials
+23138,35681130,Hospitality
+23162,26218301,Medical Equipment Manufacturing
+23190,685780,Staffing and Recruiting
+23207,737035,Entertainment Providers
+23211,85459,Motor Vehicle Manufacturing
+23237,101155083,Software Development
+23246,89115666,Non-profit Organizations
+23269,23717227,Software Development
+23288,10278948,Staffing and Recruiting
+23307,18955051,Paper and Forest Product Manufacturing
+23327,80223,Design Services
+23339,75629821,Facilities Services
+23350,3293801,Retail Apparel and Fashion
+23360,10549350,Construction
+23369,4358460,Wholesale
+23378,80998676,Medical Equipment Manufacturing
+23389,1309680,Software Development
+23427,19149854,Financial Services
+23428,55443834,Sporting Goods Manufacturing
+23443,25065378,Hospitals and Health Care
+23461,920618,Financial Services
+23475,68616998,Business Consulting and Services
+23481,78676,Professional Training and Coaching
+23509,27523,Advertising Services
+23514,97403489,Public Relations and Communications Services
+23534,101371136,IT Services and IT Consulting
+23535,730660,Construction
+23552,65732166,Pharmaceutical Manufacturing
+23594,35673055,Biotechnology Research
+23599,5937862,Financial Services
+23626,89097,Real Estate
+23630,615808,Truck Transportation
+23704,11212367,IT Services and IT Consulting
+23714,2945454,Construction
+23729,118422,Accounting
+23749,4170474,Primary and Secondary Education
+23755,77654572,Hospitality
+23763,2716056,Hospitals and Health Care
+23781,24480,Furniture and Home Furnishings Manufacturing
+23789,7798818,Biotechnology Research
+23805,9620181,Information Services
+23810,10387357,IT Services and IT Consulting
+23854,3246779,Financial Services
+23874,163880,Retail
+23877,84774920,Construction
+23913,18908080,Business Consulting and Services
+23942,581910,Manufacturing
+24006,13636669,Financial Services
+24032,7575795,Defense and Space Manufacturing
+24098,3329909,Primary and Secondary Education
+24101,26945,Business Consulting and Services
+24105,649332,Real Estate
+24118,15725,Real Estate
+24127,142596,Accounting
+24136,5376471,Staffing and Recruiting
+24152,28795909,Automation Machinery Manufacturing
+24166,748731,Software Development
+24167,11645,Financial Services
+24195,44064,Government Administration
+24218,39168,Wellness and Fitness Services
+24229,12907420,Staffing and Recruiting
+24237,1022975,IT Services and IT Consulting
+24255,214795,Software Development
+24266,18734731,Packaging and Containers Manufacturing
