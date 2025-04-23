@@ -20,9 +20,9 @@ Create a vector index and semantic search workflow on the `description` column i
 
 For your final submission, show that your semantic search workflow functions as expected by looking at the top 10 results for the following queries:
 
-- `I'm looking for data engineering, data science, and machine learning jobs`
-- `Jobs that require mechanical or electrical engineering degrees`
-- `Are there any postings for jobs that require creative writing skills?`
+- `I'm looking for a job that requires a nursing degree`
+- `Construction work, civil engineering, architecture`
+- `Are there any medical research jobs?`
 
 ## General Notes
 Please do not spend more than a few hours working on this project. We are not looking for perfection here, rather, we want to see how you think about and solve data-related problems. Feel free to use any AI tools you wish, but please make sure you understand the code you're using as you will be asked to explain your work.
