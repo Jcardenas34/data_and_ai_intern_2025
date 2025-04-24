@@ -9,7 +9,9 @@ This project is meant to exercise and assess your ability in the basic skills re
 * Feel free to use any AI tools you wish, but please make sure you understand the code you're using as you will be asked to explain your work.
 * Clear thinking and clear documentation are almost as important as well-written, working code. Part of the evaluation is the ability to clearly write technical documentation.
 * If you encounter any ambiguities in the tasks, just use your best judgment, and decide for yourself what is the best way to accomplish those tasks. We are not looking for any specific answer, so any reasonable interpretation will be fine.
-* Please do not spend more than a few hours working on this project. We are not looking for perfection here, rather, we want to see how you think about and solve data-related problems. 
+* Please do not spend more than a few hours working on this project. We are not looking for perfection here, rather, we want to see how you think about and solve data-related problems.
+* Don't be discouraged if you find you cannot complete all tasks. Some of these tasks are designed to be more difficult than others. Submitting partially-completed work is still sufficient to continue in the interview process, and is not disqualifying.
+
 
 ## Project Overview
 
@@ -37,6 +39,8 @@ Download this repository and explore the `.csv` source files found in the `\data
 
 Spend some time exploring the data. What are the relationships between the files? What are the relationships between the various columns among the files?
 
+You'll encounter a lot of missing data in certain columns. Don't worry too much about this, just assume those fields are optional.
+
 If you have any questions about the dataset, use python to analyze the dataset further.
 
 Document your findings in your python notebook.
@@ -60,8 +64,17 @@ Again, document your code as appropriate.
 
 Using your star schema, answer the following questions via SQL queries:
 
+Let's start with some simpler questions:
+
+- **How many companies have more than one job posting?**
+- **How many job postings are there for each job industry?**
+
+Now let's move to more advanced questions:
+
 - **What is the average normalized salary by company industry?**
-- **Which company has the highest average normalized salary per employee?**
+- **Name the top 5 companies with the highest average normalized salary for their job postings.**
+
+You should notice that there is some missing salary data, but we still need to come up with an answer to these questions. How can we properly communicate the limitations of our analysis, given that we don't have all the data?
 
 ### 1.5 Wrap-up and capture results 
 
