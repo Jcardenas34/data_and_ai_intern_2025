@@ -8,6 +8,7 @@ This project is meant to exercise and assess your ability in the basic skills re
 * Read these instructions carefully and follow them carefully. Part of the evaluation is the ability to execute on written instructions.
 * Feel free to use any AI tools you wish, but please make sure you understand the code you're using as you will be asked to explain your work.
 * Clear thinking and clear documentation are almost as important as well-written, working code. Part of the evaluation is the ability to clearly write technical documentation.
+* If you encounter any ambiguities in the instructions, just use your best judgment, and decide for yourself what the best way to interpret those instructions. We are not looking for any specific answer, so any reasonable interpretation will be fine.
 * Please do not spend more than a few hours working on this project. We are not looking for perfection here, rather, we want to see how you think about and solve data-related problems. 
 
 ## Project Overview
